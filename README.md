@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on ... No momento estou estudando, apenas.
-- 🌱 I’m currently learning ... Técnicas de programação
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... Atividades de Algoritmo
-- 💬 Ask me about ... Programação de web
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-🔭 Atualmente, estou trabalhando em ... Estudante do Ensino Médio
+-🌱 No momento, estou aprendendo ... Técnicas de programação
+-👯 Estou procurando colaborar em ... 
+-🤔 Estou procurando ajuda com ... Atividades de Algoritmo
+-💬 Pergunte-me sobre ... Programação de web
+-📫 Como chegar até mim: ... E-mail: gabilealtavares@gmail.com
+-😄 Pronomes: ... 
+-⚡ Curiosidade: ... Desenhos: Instagram:@gabwhos
 -->
